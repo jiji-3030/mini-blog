@@ -1,4 +1,4 @@
-# 📚 College Recipes
+# 📚 Student Bites
 
 **College Recipes** is a student-friendly blog platform where users can share and discover easy, affordable, and quick meals tailored for college life. Whether you're on a budget, rushing between classes, or stuck with leftovers — there's a recipe here for you.
 
